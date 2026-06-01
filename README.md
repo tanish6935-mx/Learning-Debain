@@ -1,2 +1,2 @@
-# Learning-Debain
-Day 1: I know basic commands like apt update
+# Learning-Debian
+Day 1: I know basic commands like apt update,and changing directories.
