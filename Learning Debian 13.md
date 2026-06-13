@@ -288,7 +288,7 @@ tanish@tanish:~/Desktop/!for-twinkering/days-30/playgroung-for-fun$ cd /
 tanish@tanish:/$ PG
 bash: cd: Desktop/!for-twinkering/days-30/playgroung-for-fun/: No such file or directory
 tanish@tanish:/$ 
-**there is a problem in the command now, i will fix it by sun=ing this command now**
+**there is a problem in the command now, i will fix it by using this command now**
 tanish@tanish:/$ cd ~/Desktop/
 tanish@tanish:~/Desktop$ cd ..
 tanish@tanish:~$ ls
