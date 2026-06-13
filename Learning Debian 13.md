@@ -239,7 +239,77 @@ tanish@tanish:~$ ls
 Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos
 tanish@tanish:~$ cd Desktop/\!for-twinkering/days-30/;ls
  linux-guide.pdf  'this is a cool alt.pdf'   this-is-a-cool-alt.pdf   txt
-
+tanish@tanish:~/Desktop/!for-twinkering/days-30$ ls
+ linux-guide.pdf  'this is a cool alt.pdf'   this-is-a-cool-alt.pdf   txt
+tanish@tanish:~/Desktop/!for-twinkering/days-30$ mkdir playgroung-for-fun
+tanish@tanish:~/Desktop/!for-twinkering/days-30$ ls
+ linux-guide.pdf     'this is a cool alt.pdf'   txt
+ playgroung-for-fun   this-is-a-cool-alt.pdf
+tanish@tanish:~/Desktop/!for-twinkering/days-30$ cd ../../../
+tanish@tanish:~$ ls
+Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos
+tanish@tanish:~$ type plygrond-cd
+bash: type: plygrond-cd: not found
+tanish@tanish:~$ cd Desktop/\!for-twinkering/days-30/playgroung-for-fun/
+tanish@tanish:~/Desktop/!for-twinkering/days-30/playgroung-for-fun$ cd -
+/home/tanish
+tanish@tanish:~$ ls
+Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos
+tanish@tanish:~$ type PG
+bash: type: PG: not found
+tanish@tanish:~$ alias PG='cd Desktop/\!for-twinkering/days-30/playgroung-for-fun/'
+tanish@tanish:~$ PG
+tanish@tanish:~/Desktop/!for-twinkering/days-30/playgroung-for-fun$ 
+tanish@tanish:~$ type apg
+bash: type: apg: not found
+tanish@tanish:~$ alias apg='cd ~/Desktop'
+tanish@tanish:~$ PG
+tanish@tanish:~/Desktop/!for-twinkering/days-30/playgroung-for-fun$ apg
+tanish@tanish:~/Desktop$ 
+tanish@tanish:~/Desktop$ unalias apg
+tanish@tanish:~/Desktop$ PG
+bash: cd: Desktop/!for-twinkering/days-30/playgroung-for-fun/: No such file or directory
+tanish@tanish:~/Desktop$ cd /
+tanish@tanish:/$ ls
+bin   etc         initrd.img.old  lost+found  opt   run   sys  var
+boot  home        lib             media       proc  sbin  tmp  vmlinuz
+dev   initrd.img  lib64           mnt         root  srv   usr  vmlinuz.old
+tanish@tanish:/$ PG
+bash: cd: Desktop/!for-twinkering/days-30/playgroung-for-fun/: No such file or directory
+tanish@tanish:/$ cd home
+tanish@tanish:/home$ ls
+tanish
+tanish@tanish:/home$ cd tanish/
+tanish@tanish:~$ PG
+tanish@tanish:~/Desktop/!for-twinkering/days-30/playgroung-for-fun$ apg
+bash: apg: command not found
+tanish@tanish:~/Desktop/!for-twinkering/days-30/playgroung-for-fun$ 
+tanish@tanish:~/Desktop/!for-twinkering/days-30/playgroung-for-fun$ cd /
+tanish@tanish:/$ PG
+bash: cd: Desktop/!for-twinkering/days-30/playgroung-for-fun/: No such file or directory
+tanish@tanish:/$ 
+**there is a problem in the command now, i will fix it by sun=ing this command now**
+tanish@tanish:/$ cd ~/Desktop/
+tanish@tanish:~/Desktop$ cd ..
+tanish@tanish:~$ ls
+Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos
+tanish@tanish:~$ cd Desktop/\!for-twinkering/days-30/playgroung-for-fun/
+tanish@tanish:~/Desktop/!for-twinkering/days-30/playgroung-for-fun$ cd -
+/home/tanish
+tanish@tanish:~$ unalias PD
+bash: unalias: PD: not found
+tanish@tanish:~$ unalias PG
+tanish@tanish:~$ PG
+bash: PG: command not found
+tanish@tanish:~$ alias PG='cd ~/Desktop/\!for-twinkering/days-30/playgroung-for-fun/'
+tanish@tanish:~$ CD /
+bash: CD: command not found
+tanish@tanish:~$ cd /
+tanish@tanish:/$ PG
+tanish@tanish:~/Desktop/!for-twinkering/days-30/playgroung-for-fun$ cd ~/Downloads/
+tanish@tanish:~/Downloads$ PG
+tanish@tanish:~/Desktop/!for-twinkering/days-30/playgroung-for-fun$ 
+**Now fixed**
 
 
 
