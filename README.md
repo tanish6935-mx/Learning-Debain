@@ -18,5 +18,5 @@
   - Disclamer: donnt ever paste the command "man bash" and try to read the over 6000 line txt file as a new user. it is long and complex for me now.
   - I created my own custom command, i can cd into the play-ground jist by typing PG in the shell
   - I found a flaw with the PG command, so I unalias PG and i fixed the flaw and now if i type PG, i takes me where ever i want to be in no matter in which directory i am in now!
-  - The flaw 'alias PG='cd Desktop/\!for-twinkering/days-30/playgroung-for-fun/'' if I am the Downloads directory, i cannot cd into playground, so this is the solution to the flaw 'alias PG='cd ~/Desktop/\!for-twinkering/days-30/playgroung-for-fun/''
+  - The flaw "alias PG='cd Desktop/\!for-twinkering/days-30/playgroung-for-fun/'" if I am the Downloads directory, i cannot cd into playground, so this is the solution to the flaw "alias PG='cd ~/Desktop/\!for-twinkering/days-30/playgroung-for-fun/'"
   
