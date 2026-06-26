@@ -21,4 +21,4 @@
   - The flaw "alias PG='cd Desktop/\!for-twinkering/days-30/playgroung-for-fun/'" if I am the Downloads directory, i cannot cd into playground, so this is the solution to the flaw "alias PG='cd ~/Desktop/\!for-twinkering/days-30/playgroung-for-fun/'"
   - I have completed the first 50 pages.
 # Week 5:
-  - I
+  - I will be doing this project after all my exams and wil resume, i.e on the second weak of the beganing of every month, and i will spend 4 hours at minimum
