@@ -22,3 +22,5 @@
   - I have completed the first 50 pages.
 # Week 5:
   - I will be doing this project after all my exams and wil resume, i.e on the second weak of the beganing of every month, and i will spend 4 hours at minimum
+  - I have re installed linux and have lost  all my progress, so everything brand new.
+  - 
