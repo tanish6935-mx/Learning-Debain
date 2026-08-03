@@ -21,6 +21,29 @@
   - The flaw "alias PG='cd Desktop/\!for-twinkering/days-30/playgroung-for-fun/'" if I am the Downloads directory, i cannot cd into playground, so this is the solution to the flaw "alias PG='cd ~/Desktop/\!for-twinkering/days-30/playgroung-for-fun/'"
   - I have completed the first 50 pages.
 # Week 5:
-  - I will be doing this project after all my exams and wil resume, i.e on the second weak of the beganing of every month, and i will spend 4 hours at minimum
+  - I will be doing this project after all my exams and will resume, i.e on the second weak of the beginning of every month, and i will spend 4 hours at minimum
   - I have re installed linux and have lost  all my progress, so everything brand new.
+  - To get in touch with my computer again, i am recaping everything.
+  - pwd -> print working directory.
+  - cd -> change directory.
+  - ls -> List everyhing in that directory.
+  - ls and its options. (ls -alh is my favorite)
+  - file -> to dertermine a file's type
+  - less -> to read what is in the .txt file within the shell.
+  - cp -> copping from and to
+  - mv -> Move from and to.
+  - mkdir -> make directory
+  - rm -> remove
+  - ln -> creating hard links
+  - ln -s -> creating soft links
+  - type -> displays the type of the command
+  - which -> displays the executable's loacation
+  - help -> getting help on what a command does, and the options for the command.
+  - man -> manual of the command (my favorite is man bash)
+  - whatis -> short man page only its function.
+  - info -> Gives some info on a command.
+  - alais -> creating one's own commands.
+  - unalais -> remoes the alais function given to the command
+  - and that is it for today.
+# Week 6:
   - 
