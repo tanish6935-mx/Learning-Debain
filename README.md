@@ -45,5 +45,7 @@
   - alais -> creating one's own commands.
   - unalais -> remoes the alais function given to the command
   - and that is it for today.
-# Week 6:
-  - 
+  - And i will be practice whenever time permits and i'll try to be ferquest as possible.
+# Day 6:
+  - I have learnt how to create a text file listing everything in a directory in alfabetical order using the >> symbols.
+# Day 7:
