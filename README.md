@@ -47,5 +47,8 @@
   - and that is it for today.
   - And i will be practice whenever time permits and i'll try to be ferquest as possible.
 # Day 6:
-  - I have learnt how to create a text file listing everything in a directory in alfabetical order using the >> symbols.
+  - I have learnt how to create a text file listing everything in a directory in alphabetical order using the >> symbols.
 # Day 7:
+  - I am recreating all the playgrounds i have made in the first day
+  - i have also created the alias to the days 30 folder.
+  - Ive also made a few improvements to the previous shortcuts like k for cd into days 30 folder, n for cd ~ and finally, l for ls -CD
