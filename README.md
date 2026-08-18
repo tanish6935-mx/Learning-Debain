@@ -52,3 +52,16 @@
   - I am recreating all the playgrounds i have made in the first day
   - i have also created the alias to the days 30 folder.
   - Ive also made a few improvements to the previous shortcuts like k for cd into days 30 folder, n for cd ~ and finally, l for ls -CD
+# Day 8:
+  - I've imported a lot of pdf files with rendom names (my text books form the ncert sight)and coppied all the system files into a folder, so that I will not use the system files as a test subject and potentially corrupt them.
+  - i have learnt to read a text file in a way that does not feel like opening a seperate window or a tab to read a document, using the cat < filename command. It just gives me the contents of the file without the need of me needing to press "q" to exit to the main command line
+  - I have also learnt how to create a text file using the cat > filename.txt to redirect what i type in the command line to the test file for example:
+cat < file.text
+To-Do list,
+- Do laundary
+- complete homework
+- ect..
+  - I can open the text file in the GUI to read waht I have typed in the commandline - useful when there is no text file creators but there is a test file reader if there is a situation like that, Maybe this is meant for the linux command line so that I can can creat and read files so that i can read my todo list without switching my window from the shell.
+  - and thats it for today. ill do an hour of linux programing when there is an hour of leisure time.
+  - I have completed wvwrything until page 54.
+# Day 9:
