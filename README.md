@@ -65,3 +65,5 @@ To-Do list,
   - and thats it for today. ill do an hour of linux programing when there is an hour of leisure time.
   - I have completed wvwrything until page 54.
 # Day 9:
+  - I learnt that alias is not a permanent solution and this is forgotten if the shell crashes.
+  - 
